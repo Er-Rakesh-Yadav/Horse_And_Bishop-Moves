@@ -1,7 +1,7 @@
 ![](https://miro.medium.com/max/1400/0*k4FV0ZGEWnGmBOAS.gif)
 
 ### **_Screenshot Of Problem Statement_**
-![](./src/Problem-Picture.PNG)
+![](Problem-Picture.PNG)
 
 
 [comment]: <> (![]&#40;https://i.pinimg.com/originals/0e/a8/80/0ea8809418106e20bc43ea5cd43ca4fa.gif&#41;)
