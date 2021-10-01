@@ -14,7 +14,7 @@ direction are represented as arrow and 'Horse' is available at 6,6 and possible 
 where the Bishop and Horse can meet is 4,5 as represented by yellow color. You need to use your own data structure,
 data types and test cases asper the requirement. 
 
-Hint: (Hint: use graph algorithm - BFS) *
+Hint: (Hint: use graph algorithm - Breadth First Search) *
 ```
 
 ![](https://cutewallpaper.org/21/loading-gif-transparent-background/Download-Loading-Gif-Generator-Transparent-Background-PNG-.gif)
